@@ -1,0 +1,43 @@
+footer{
+    text-align: center;
+    font-size: 45px;
+    color: springgreen;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+li{
+    display: inline;
+    list-style: none;
+    list-style-position: inside
+}
+a{
+
+   margin: 195px;
+   text-decoration: none;
+
+}
+article{
+    /* background-color: black; */
+    color: rgb(134, 96, 35);
+    margin-right: 620px;
+}
+aside{
+    /* background-color: blue; */
+    color: rgb(13, 159, 154);
+    margin-left: 900px;
+    margin-top: -1950px;
+}
+.adresto{
+    color: burlywood;
+    margin: 50px;
+    text-align: center;
+}
+#adresto{
+    text-align: center;
+    color: burlywood;
+    margin: -30px;
+}
+address{
+    color: brown;
+    text-align: center;
+}

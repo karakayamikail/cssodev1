@@ -1,1 +1,1 @@
-# cssodev1
+# 25MB Sınırı olduğu için videoyu oynatmayacaktır.
